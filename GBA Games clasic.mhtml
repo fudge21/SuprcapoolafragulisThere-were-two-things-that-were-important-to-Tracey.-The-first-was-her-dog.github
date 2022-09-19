@@ -1,0 +1,785 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://cattn.github.io/gba/emulator.html
+Subject: GBA Games
+Date: Thu, 15 Sep 2022 11:45:18 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--xCdATQemtpWpU7TJjEbjvqtcRNSTBe9x5rBlrUmr4p----"
+
+
+------MultipartBoundary--xCdATQemtpWpU7TJjEbjvqtcRNSTBe9x5rBlrUmr4p----
+Content-Type: text/html
+Content-ID: <frame-062DCD8F3502FDF44A7FB4F1D7E0B6F2@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cattn.github.io/gba/emulator.html
+
+<!DOCTYPE html><html lang=3D"en" data-theme=3D"light"><head><meta http-equi=
+v=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<link rel=3D"stylesheet" href=3D"https://cattn.github.io/gba/user_css/index=
+.css">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<title>GBA Games</title>
+
+<meta name=3D"description" content=3D"Free, online GBA Emulator with over 3=
+00+ Games available Immediately! GitHub GBA Game website.">
+<meta name=3D"robots" content=3D"index, follow">
+<meta name=3D"keywords" content=3D"gba, games, unblocked, play, free, gameb=
+oy, advance, emulator, roms, rom">
+<!-- Google tag (gtag.js) -->
+
+
+        <link rel=3D"shortcut icon" href=3D"https://cattn.github.io/gba/Bin=
+aries/gb.ico">
+        <link rel-"stylesheet"=3D"" href=3D"https://cattn.github.io/gba/use=
+r_css/themes.css">
+       =20
+       =20
+    </head>=20
+    <body><nav>
+      <p class=3D"buttext"><a href=3D"https://cattn.github.io/gba/settings.=
+html">Switch Theme</a></p>
+    </nav>
+   =20
+        <h2>Welcome to the GBA Emulator</h2>
+       =20
+        <ul class=3D"menu">
+          <li><a href=3D"https://cattn.github.io/gba/update.html" data-bubb=
+le=3D"Update!">New Emulator</a></li>
+        </ul>
+          <h3>THANK YOU TO LATEBAT for helping contribute to our up-and-com=
+ing emulator update! Go check out his page (It's cool) <a href=3D"https://l=
+atebat.me/" target=3D"_blank">Here!</a></h3>
+       =20
+        <h2>Select a Game:</h2>
+        <a class=3D"smalltxt" href=3D"https://cattn.github.io/gba/emulator.=
+html#bottom1234">Or skip to bottom</a>
+        <main>
+          <div class=3D"search-box">
+            <button aria-labelledby=3D"search1" class=3D"btn-search"><i cla=
+ss=3D"fas fa-search"></i></button>
+            <input class=3D"input-search" type=3D"text" id=3D"search1" plac=
+eholder=3D"Search for games..">
+          </div>
+          <ul id=3D"searchGames">
+            <!--One underscore is equivalent to one space ( )
+                Two underscroes are equivalent to a hyphen with a space on =
+both sides ( - ) -->
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Aero_t=
+he_Acrobat__Rascal_Rival_Revenge">Aero the Acrobat - Rascal Rival Revenge</=
+a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Astro_=
+Boy__Omega_Factor">Astro Boy - Omega Factor</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Atari_=
+Anniversary_Advance_(USA)">Atari Anniversary Advance (USA)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Banjo_=
+Kazooie__Grunty's_Revenge">Banjo Kazooie - Grunty's Revenge</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Banjo_=
+Pilot">Banjo Pilot</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Bomber=
+man_Max_2__Red_(E)">Bomberman Max 2 - Red (E)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Breath=
+_of_Fire_(E)">Breath of Fire (E)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Breath=
+_of_Fire_II_(USA)">Breath of Fire II (USA)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Broken=
+_Sword__the_Shadow_of_the_Templars">Broken Sword - the Shadow of the Templa=
+rs</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Car_Ba=
+ttler_Joe_(USA)">Car Battler Joe (USA)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Castle=
+vania__Aria_of_Sorrow_(USA)">Castlevania - Aria of Sorrow (USA)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Castle=
+vania__Circle_of_the_Moon">Castlevania - Circle of the Moon</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Castle=
+vania__Harmony_Of_Dissonance">Castlevania - Harmony Of Dissonance</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Chu_Ch=
+u_Rocket!">Chu Chu Rocket!</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Crash_=
+Bandicoot_2__N-Tranced">Crash Bandicoot 2 - N-Tranced</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Crash_=
+Bandicoot__Purple_Riptos_Rampage">Crash Bandicoot - Purple Riptos Rampage</=
+a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Crash_=
+Bandicoot__the_Huge_Adventure">Crash Bandicoot - the Huge Adventure</a></li=
+>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Denset=
+su_no_Stafy">Densetsu no Stafy</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Denset=
+su_no_Stafy_2">Densetsu no Stafy 2</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Denset=
+su_no_Stafy_3">Densetsu no Stafy 3</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Disney=
+'s_Kim_Possible_2__Drakken's_Demise_(U)">Disney's Kim Possible 2 - Drakken'=
+s Demise (U)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Donkey=
+_Kong_Country">Donkey Kong Country</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Donkey=
+_Kong_Country_2_(U)">Donkey Kong Country 2 (U)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Donkey=
+_Kong_Country_3">Donkey Kong Country 3</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Donkey=
+_Kong__King_of_Swing">Donkey Kong - King of Swing</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Dr._Ma=
+rio_&amp;_Puzzle_League">Dr. Mario &amp; Puzzle League</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Drill_=
+Dozer">Drill_Dozer</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Duke_N=
+ukem_Advance_(U)">Duke Nukem Advance (U)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Ecks_v=
+s._Sever_(E)">Ecks vs. Sever (E)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Final_=
+Fight_One_(U)">Final Fight One (U)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Gradiu=
+s_Galaxies_(USA)">Gradius Galaxies (USA)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#King_o=
+f_Fighters_EX,_The__NeoBlood_(U)_(V1.1)">King of Fighters EX, The - NeoBloo=
+d (U) (V1.1)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#King_o=
+f_Fighters_EX_2__Howling_Blood">King of Fighters EX 2 - Howling Blood</a></=
+li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Klonoa=
+_2__Dream_Champ_Tournament">Klonoa 2 - Dream Champ Tournament</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Klonoa=
+__Empire_of_Dreams">Klonoa - Empire of Dreams</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Konami=
+_Krazy_Racers_(Europe)">Konami Krazy Racers (Europe)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Kuru_K=
+uru_Kururin">Kuru Kuru Kururin</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Kururi=
+n_Paradise_(Japan)">Kururin Paradise (Japan)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#LEGO__=
+Star_Wars_2__the_Original_Trilogy">LEGO - Star Wars 2 - the Original Trilog=
+y</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#LEGO__=
+Star_Wars__the_Video_Game">LEGO - Star Wars - the Video Game</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Lilo_&=
+amp;_Stitch">Lilo &amp; Stitch</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Lunar_=
+Legend_(U)_[!]">Lunar Legend (U) [!]</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mario_=
+Golf__Advance_Tour">Mario Golf - Advance Tour</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mario_=
+Tennis__Power_Tour">Mario Tennis - Power Tour</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mario_=
+and_Luigi__Superstar_Saga">Mario and Luigi - Superstar Saga</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mario_=
+vs._Donkey_Kong">Mario vs. Donkey Kong</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Max_Pa=
+yne_(USA)">Max Payne (USA)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Medal_=
+of_Honor__Infiltrator_(U)">Medal of Honor - Infiltrator (U)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mega-M=
+an_Battle_Network">Mega Man Battle Network</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mega-M=
+an_Battle_Network_2">Mega Man Battle Network 2</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mega-M=
+an_Battle_Network_3__Blue">Mega Man Battle Network 3 - Blue</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mega-M=
+an_Battle_Network_3__White">Mega Man Battle Network 3 - White</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mega-M=
+an_Battle_Network_4__Blue_Moon">Mega Man Battle Network 4 - Blue Moon</a></=
+li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mega-M=
+an_Battle_Network_4__Red_Sun">Mega Man Battle Network 4 - Red Sun</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mega-M=
+an_Battle_Network_5__Team_Colonel">Mega Man Battle Network 5 - Team Colonel=
+</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mega-M=
+an_Battle_Network_5__Team_Proto-Man">Mega Man Battle Network 5 - Team Proto=
+Man</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mega-M=
+an_Battle_Network_6__Cybeast_Falzar">Mega Man Battle Network 6 - Cybeast Fa=
+lzar</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Mega-M=
+an_Battle_Network_6__Cybeast_Gregar">Mega Man Battle Network 6 - Cybeast Gr=
+egar</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Monkey=
+_Ball_Jr">Monkey Ball Jr</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Monste=
+r_Rancher_Advance_(USA)">Monster Rancher Advance (USA)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Monste=
+r_Rancher_Advance_2_(USA)">Monster Rancher Advance 2 (USA)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Ninja_=
+Cop">Ninja Cop</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Pocky_=
+&amp;_Rocky_with_Becky">Pocky &amp; Rocky with Becky</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Puyo_P=
+op">Puyo Pop</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Puzzle=
+_Fighter_2_Turbo">Puzzle Fighter 2 Turbo</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Racing=
+_Gears_Advance_(U)">Racing Gears Advance (U)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Ray-Ma=
+n_3__Hoodlum_Havoc">RayMan 3 - Hoodlum Havoc</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Ray-Ma=
+n_Advance">RayMan Advance</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Rhythm=
+_Tengoku_(Japan)">Rhythm Tengoku (Japan)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Spider=
+-Man__Mysterio's_Menace_(U)_[!]">Spider-Man - Mysterio's Menace (U) [!]</a>=
+</li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Spyro_=
+3__Attack_of_the_Rhynocs">Spyro 3 - Attack of the Rhynocs</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Spyro_=
+Orange__the_Cortex_Conspiracy">Spyro Orange - the Cortex Conspiracy</a></li=
+>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Summon=
+_Night__Swordcraft_Story">Summon Night - Swordcraft Story</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Summon=
+_Night__Swordcraft_Story_2">Summon Night - Swordcraft Story 2</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Super_=
+Bust-A-Move_(USA)_(En,Fr,Es)">Super Bust-A-Move (USA) (En,Fr,Es)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Super_=
+Dodge_Ball_Advance_(Europe)">Super Dodge Ball Advance (Europe)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Super_=
+Ghouls_'N_Ghosts_(U)">Super Ghouls 'N Ghosts (U)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Tactic=
+s_Ogre__the_Knight_of_Lodis">Tactics Ogre - the Knight of Lodis</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Tekken=
+_Advance_(U)_[!]">Tekken Advance (U) [!]</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Tony_H=
+awk's_Downhill_Jam">Tony Hawk's Downhill Jam</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Ultima=
+te_Brain_Games_(U)">Ultimate Brain Games (U)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Ultima=
+te_Card_Games_(U)">Ultimate Card Games (U)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#V-Rall=
+y_3_(U)">V-Rally 3 (U)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Virtua=
+_Tennis_(U)">Virtua Tennis (U)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Wade_H=
+ixton's_Counter_Punch_(USA,_Europe)">Wade Hixton's Counter Punch (USA, Euro=
+pe)</a></li>
+            <li><a href=3D"https://cattn.github.io/gba/launcher.html#Yu-Gi-=
+Oh!__The_Eternal_Duelist_Soul_(U)_[!]">Yu-Gi-Oh! - The Eternal Duelist Soul=
+ (U) [!]</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#007">007 - Everything Or Nothing</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#adva=
+ncewars">Advance Wars</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#adva=
+ncewars2">Advance Wars 2</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#alad=
+din">Aladdin</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#alie=
+nhominid">Alien Hominid</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#atari">Atari Anniversary Advance</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#bomb=
+erman_max2blue">Bomberman Max 2 - Blue Advance</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#bomb=
+erman_tournament">Bomberman Tournament</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#bubb=
+lebobble">Bubble Bobble: Old and New</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#cfpt">Connect Four/Perfection/Trouble</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#cbha">Crash Bandicoot - The Huge Adventure</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#cbprr">Crash Bandicoot - Purple Riptos Rampage</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#cb2">Crash Bandicoot 2 - N-Tranced</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#cnk">Crash Nitro Kart</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#crok=
+et1">Croket! - Yume no Banker Survival!</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#crok=
+et2">Croket! 2 - Yami no Bank to Banqueen</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#crok=
+et3">Croket! 3 - Granu Oukoku no Nazo</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#crok=
+et4">Croket! 4 - Bank no Mori no Mamorigami</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#digi=
+mon_racing">Digimon Racing</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#dkkos">DK - King Of Swing</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#dkc">Donkey Kong Country</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#dkc2">Donkey Kong Country 2</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#dkc3">Donkey Kong Country 3</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#dm">Doom</a></li>  =20
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#dm2">Doom 2</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#dbz_=
+supersonic">Dragon Ball Z - Supersonic Warriors</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#dmpl">Dr. Mario+Puzzle League</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#dril=
+ldozer">Drill Dozer</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#dna">Duke Nukem Advance</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#dnd">Dungeons And Dragons - Eye Of The Beholder</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#eart=
+hwormjim">Earthworm Jim</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#eart=
+hwormjim2">Earthworm Jim 2</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#ffeud">Family Feud</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#fan4">Fantastic 4</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#fan4fo">Fantastic 4 - Flame On</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#fifa4">FIFA Football 2004</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#fifa5">FIFA Football 2005</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#fifa6">FIFA 06</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#fifawc6">FIFA World Cup 2006</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#fifa7">FIFA 2007</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#ff1a=
+nd2">Final Fantasy 1 &amp; 2 Advance</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#ff4S=
+">Final Fantasy IV Advance (Sound Restoration Mod)</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#ff6"=
+>Final Fantasy VI Advance</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#fina=
+l_fantasy_tactics">Final Fantasy Tactics Advance</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#fire=
+_emblem">Fire Emblem</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#fr3">Ford Racing 3</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#frog=
+ger1">Frogger Advance - The Great Quest</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#frog=
+ger2">Frogger's Adventures - Temple of the Frog</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#frog=
+ger3">Frogger's Adventures 2 - The Lost Wand</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#fzer=
+o_gp">F-Zero - GP Legend</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#fzer=
+o_max">F-Zero - Maximum Velocity</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#game=
+watch4">Game &amp; Watch Gallery 4</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#gold=
+ensun">Golden Sun</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#gta">Grand Theft Auto Advance</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#guns=
+tar_super_heroes">Gunstar Super Heroes</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#hamt=
+aro_heartbreak">Hamtaro - Ham-Ham Heartbreak</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#hmfmt">Harvest Moon - Friends Of Mineral Town</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#hmmfmt">Harvest Moon - More Friends Of Mineral Town</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#iridion">Iridion 3D</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#jca">Jackie Chan Adventures - Legend Of The Dark Hand</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#jbn">James Bond 007 - Nightfire</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#jp3dna">Jurassic Park III - DNA Factor</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#jp3ia">Jurassic Park III - Island Attack</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#jp3pb">Jurassic Park III - Park Builder</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#jlifa">Justice League - Injustice For All</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#jlc">Justice League Chronicles</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#jlhth">Justice League Heros - The Flash</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#khcom">Kingdom Hearts - Chain Of Memories</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#kirb=
+ymirror">Kirby &amp; The Amazing Mirror</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#kirb=
+ynightmare">Kirby: Nightmare in Dreamland</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#lb">Lego Bionicle</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#li2">Lego Island 2</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#lr2">Lego Racers 2</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#lsw">Lego Star Wars</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#lotrtta">Lord Of The Rings: The Third Age</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#lotr2">Lord Of The Rings: The Two Towers</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#lotr3">Lord Of The Rings: The Return Of The King</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#supe=
+rstar">Mario &amp; Luigi: Superstar Saga</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mari=
+okart">Mario Kart: Super Circuit</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mari=
+oparty">Mario Party Advance</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mari=
+opinball">Mario Pinball Land</a></li> =20
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#mvsdk">Mario V.S. Donkey Kong</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mega=
+manbass">Megaman &amp; Bass</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mega=
+man_battle1">Megaman Battle Network 1</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mega=
+man_battle2">Megaman Battle Network 2</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mega=
+man_battle3_blue">Megaman Battle Network 3 Blue</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mega=
+man_battle4_blue">Megaman Battle Network 4 Blue Moon</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mega=
+man_battle4_red">Megaman Battle Network 4 Red Sun</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mega=
+man_battle5">Megaman Battle Network 5 Team Protoman</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mega=
+man_battle6">Megaman Battle Network 6 Cybeast Falzar</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mega=
+man_zero1">Megaman Zero</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mega=
+man_zero2">Megaman Zero 2</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mega=
+man_zero3">Megaman Zero 3</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mega=
+man_zero4">Megaman Zero 4</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#meta=
+lslug">Metal Slug Advance</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#metr=
+oid_fusion">Metroid Fusion</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#mzm">Metroid Zero Mission</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#momo=
+tarou_dentetsu">Momotarou Dentetsu G Gold Deck wo Tsukure!</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mono=
+poly">Monopoly</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mons=
+ter_force">Monster Force</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#mort=
+al_kombat">Mortal Kombat Advance</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#m3">Mother 3</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#nbaj">NBA Jam 2002</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#nfsu">Need For Speed - Underground</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#nfsu2">Need For Speed - Underground 2</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#0994">Naurto Game (Eurasia)</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#onepiece">One Piece</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#pmc">Pacman Collection</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#pmpa">Pacman Pinball Advance</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#pacm=
+an_world">Pacman World</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#pacm=
+an_world2">Pacman World 2</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#poke=
+monflorasky">Pokemon florasky</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#emer=
+ald_randomizer">pokemon randomizer</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#Emer=
+ald_Extreme_Rom">Pokemon Emerald Extreme Rom</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#emer=
+ald_multiplayer">Pokemon Emerald customized</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#poke=
+monemerald">Pokemon Emerald</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#emer=
+ald_extreme_randomizer">Pokemon Emerald Extreme Randomizer</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#pokemonek">Pokemon Emerald (Kaizo Mod)</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#eprp">Pokemon Emerald (Party Randomizer Plus Mod)</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#poke=
+mongreen">Pokemon Leaf Green</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#poke=
+monred">Pokemon Fire Red</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#pokemonlp">Pokemon Light Platinum (Ruby Mod)</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#myst=
+eryred">Pokemon Mystery Dungeon Red</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#poke=
+monruby">Pokemon Ruby</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#poke=
+monsapphire">Pokemon Sapphire</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#pprs">Pokemon Pinball - Ruby &amp; Sapphire</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#prs">Pokemon Rocket Strike (Fire Red Mod)</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#pokewb">Pokemon Water Blue (Fire Red Mod)</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#gba_=
+video_pokemon_1">Pokemon Video Show Pak 1</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#gba_=
+video_pokemon_2">Pokemon Video Show Pak 2</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#gba_=
+video_pokemon_3">Pokemon Video Show Pak 3</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#gba_=
+video_pokemon_4">Pokemon Video Show Pak 4</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#puyopop">Puyo Pop</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#ppf">Puyo Pop Fever</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#rsrs">Rainbow Six - Rogue Spear</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#r3hh">Rayman 3 - Hoodlum Havoc</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#ra">Rayman Advance</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#rtpl">Rivera - The Promised Land</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#sag">Sega Arcade Gallery</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#sc">Sim City 2000</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#soni=
+c_advance">Sonic Advance</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#soni=
+c_advance2">Sonic Advance 2</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#soni=
+c_advance3">Sonic Advance 3</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#soni=
+cbattle">Sonic Battle</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#soni=
+cpinball">Sonic Pinball</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#sthg">Sonic The Hedgehog - Genesis</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#spyr=
+o_adventure">Spyro Adventure</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#spyr=
+o_ice">Spyro: Season of Ice</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#spyr=
+o_flame">Spyro 2: Season of Flame</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#supe=
+rmarioadvance">Super Mario Advance</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#supe=
+rmarioadvance2">Super Mario Advance 2</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#supe=
+rmarioadvance3">Super Mario Advance 3</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#supe=
+rmarioadvance4">Super Mario Advance 4</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#sma4+">Super Mario Advance 4 (Wii U Version)</a></li>           =20
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#supe=
+rmonkeyballjr">Super Monkey Ball Jr</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#supe=
+r_street_fighter_2_turbo_revival">Super Street Fighter II: Turbo Revival</a=
+></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#supe=
+r_street_fighter_3_alpha">Super Street Fighter III: Alpha</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#tale=
+s_of_phantasia">Tales of Phantasia</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#tak2=
+_staff_of_dreams">Tak 2: The Staff of Dreams</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#tmnt=
+">Teenage Mutant Ninja Turtles</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#tetr=
+is_worlds">Tetris Worlds</a></li>
+                    <li><a href=3D"https://cattn.github.io/gba/launcher.htm=
+l#lyp">The Game Of Life/Yahtzee/Payday</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#sims=
+_bustin_out">The Sims: Bustin ' Out</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#sims=
+2">The Sims 2</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#simp=
+sons">The Simpsons: Road Rage</a></li>=20
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#thas">Tony Hawk's American Sk8land</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#thps2">Tony Hawk's Pro Skater 2</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#thps3">Tony Hawk's Pro Skater 3</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#thps4">Tony Hawk's Pro Skater 4</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#tggtc">Top Gear GT Championship</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#tgr">Top Gear Rally</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#turo=
+k_evolution">Turok Evolution</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#ty2">Ty the Tasmanian Tiger 2 - Bush Rescue</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#ty3">Ty the Tasmanian Tiger 3 - Night of the Quinkan</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#unsb">Uno+Skip-Bo</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#wari=
+oland4">Wario Land 4</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#wari=
+o_ware">Wario Ware Inc</a></li>
+                          <li><a href=3D"https://cattn.github.io/gba/launch=
+er.html#ynfa">Yggdra Union - We'll Never Fight Alone</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#zeld=
+a_past">The Legend of Zelda: A Link to the Past</a></li>
+              <li><a href=3D"https://cattn.github.io/gba/launcher.html#zeld=
+a_minish">The Legend of Zelda: The Minish Cap</a></li>
+          </ul>
+          <p class=3D"warning"></p>
+              <h3 class=3D"hidesearch">Gameboy Rom Collections</h3>
+          <ul>
+              <a href=3D"https://cattn.github.io/gba/launcher.html#pokemong=
+b">The Pokemon Collection</a>
+              <a href=3D"https://cattn.github.io/gba/launcher.html#mariolan=
+d">The Mario Land Collection</a>
+          </ul>
+              <h3>NES Rom Collections</h3>
+          <ul>
+              <a href=3D"https://cattn.github.io/gba/launcher.html#nesgh1">=
+NES Greatest Hits 1</a>
+          </ul>
+          <h3>Experimental Emulator</h3>
+          <ul>
+              <a id=3D"bottom1234" href=3D"https://cattn.github.io/gba/inde=
+x.html">New Emulator</a>
+          </ul>
+		   <h3>Featured Sites using this page!</h3>
+       <p>Please note that only Math Study links are directly owned by Math=
+ Study, other links are not controlled by us. If you have an issue, please =
+contact us in our discord.</p>
+          <ul>
+              <p><a href=3D"https://sites.google.com/stu.palmbeachschools.o=
+rg/mathlearningcenter/home">Math Study</a></p>
+              <p><a href=3D"https://cattn.github.io/msgv2">MSGweb</a></p>
+              <p><a href=3D"https://discord.gg/nZrabh4cgH">Math Study Disco=
+rd</a></p>
+              <p><a href=3D"https://xlegends.github.io/gxmehub">Gxmehub!</a=
+></p>
+              <p><a href=3D"https://sites.google.com/view/sealcentral/home?=
+authuser=3D0">Seal Central!</a></p>
+              <p><a href=3D"https://sites.google.com/view/sp-gxmes">SP Laun=
+cher</a></p>
+              <p><a href=3D"https://sites.google.com/view/artclass-site">Ar=
+t Class</a></p>
+              <p> Want your site link here? If you use this in your site, c=
+ontact Catt#5172, and we can partner!</p>
+          			 =20
+            </ul>
+        </main>
+    <h3>Re-designed, Changed Emulator, and more by Cattn + Nailington#0747<=
+/h3>
+    =20
+   =20
+
+	   =20
+</body></html>
+------MultipartBoundary--xCdATQemtpWpU7TJjEbjvqtcRNSTBe9x5rBlrUmr4p----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cattn.github.io/gba/user_css/index.css
+
+@charset "utf-8";
+
+* { transition-duration: 0.4s; }
+
+::-webkit-scrollbar { width: 9px; border-radius: 10px; }
+
+::-webkit-scrollbar-thumb { border-radius: 10px; box-shadow: rgba(0, 0, 0, =
+0.3) 0px 0px 6px inset; background-color: rgb(85, 85, 85); }
+
+h1 { color: var(--heading-color); }
+
+main { border: 5px solid red; border-radius: 25px; background: var(--backgr=
+ound-color); }
+
+html { text-align: center; scroll-behavior: smooth; }
+
+body { font-family: sans-serif; background: var(--bg-color); color: var(--f=
+ont-color); }
+
+li { font-size: 16px; padding: 10px; }
+
+ul { list-style-position: inside; }
+
+@media (max-width: 750px) {
+  html { padding: 0.8em; text-align: center; line-height: 30px; }
+}
+
+a { color: var(--primary-color); }
+
+nav { display: flex; justify-content: flex-end; padding: 5px 0px; margin-to=
+p: 5px; }
+
+.theme-switch-wrapper { display: flex; align-items: center; }
+
+.buttext { background-color: black; margin-left: 10px; font-size: 20px; bor=
+der-radius: 20px; padding: 10px; }
+
+.theme-switch { display: inline-block; height: 34px; position: relative; wi=
+dth: 60px; }
+
+.theme-switch input { display: none; }
+
+.slider { background-color: rgb(122, 66, 66); inset: 0px; cursor: pointer; =
+position: absolute; transition: all 0.4s ease 0s; }
+
+.slider::before { background-color: rgb(255, 255, 255); bottom: 4px; conten=
+t: ""; height: 26px; left: 4px; position: absolute; transition: all 0.4s ea=
+se 0s; width: 26px; }
+
+input:checked + .slider { background-color: rgb(102, 187, 106); }
+
+.search-box { position: relative; text-align: center; }
+
+.input-search { height: 50px; width: 70%; border-style: none; padding: 10px=
+; font-size: 18px; letter-spacing: 2px; outline: none; border-radius: 25px;=
+ transition: all 0.5s ease-in-out 0s; background-color: rgb(13, 64, 69); co=
+lor: rgb(235, 230, 230); }
+
+.input-search::placeholder { color: rgba(255, 255, 255, 0.5); font-size: 18=
+px; letter-spacing: 2px; font-weight: 100; }
+
+.btn-search { width: 70%; height: 50px; border-style: none; font-size: 20px=
+; font-weight: bold; outline: none; border-radius: 50%; position: absolute;=
+ right: 0px; color: rgb(87, 83, 83); background-color: transparent; pointer=
+-events: painted; }
+
+.btn-search:focus ~ .input-search { width: 80%; border-radius: 0px; backgro=
+und-color: transparent; border-bottom: 1px solid rgba(67, 64, 64, 0.5); tra=
+nsition: all 500ms cubic-bezier(0, 0.11, 0.35, 2) 0s; }
+
+.input-search:focus { width: 80%; border-radius: 0px; background-color: rgb=
+(71, 69, 69); border-bottom: 1px solid rgba(79, 76, 76, 0.5); transition: a=
+ll 500ms cubic-bezier(0, 0.11, 0.35, 2) 0s; }
+
+.menu { display: inline-block; box-shadow: rgba(40, 40, 40, 0.2) 0.12em 0.1=
+2em 0px; list-style-type: none; padding: 0px; margin: 0px 0px 1.5em; font-s=
+ize: 1em; }
+
+.menu a { display: block; padding: 0px 1em; line-height: 2.5em; position: r=
+elative; font-weight: bold; text-decoration: none; color: black; background=
+-color: var(--primary-color); text-shadow: var(--secondary-color); }
+
+.menu a:hover, .menu a:active, .menu a:focus { color: rgb(238, 238, 238); t=
+ext-shadow: rgb(84, 113, 119) 0.063em 0.063em 0px; }
+
+.menu a[data-bubble]::after { content: attr(data-bubble); position: absolut=
+e; top: 0px; right: 0.5em; height: 1.5em; line-height: 1.5em; padding: 0px =
+0.46em; text-align: center; text-shadow: rgba(0, 0, 0, 0.2) 0px 0.063em 0px=
+; background-color: rgb(238, 238, 238); color: rgb(54, 70, 82); box-shadow:=
+ rgba(0, 0, 0, 0.2) 0px 0.063em 0.063em; border-radius: 4em; z-index: -1; t=
+ransform: translateZ(0px); will-change: transform; }
+
+a.gold[data-bubble]::after { background-color: gold; }
+
+.menu a:hover[data-bubble]::after, .menu a:active[data-bubble]::after, .men=
+u a:focus[data-bubble]::after { animation: 0.4s ease 0s 1 normal both runni=
+ng bubbleover; top: -1.25em; z-index: 1; }
+
+@-webkit-keyframes bubbleover {=20
+  0% { transform: translate(0px, 1em); z-index: -1; }
+  50% { transform: translate(0px, -0.5em); z-index: -1; }
+  100% { transform: translate(0px, 0px); z-index: 1; }
+}
+
+@keyframes bubbleover {=20
+  0% { top: 0px; transform: translate(0px, 0px); z-index: -1; }
+  50% { transform: translate(0px, -12px); z-index: -1; }
+  100% { transform: translate(0px, 6px); z-index: 1; }
+}
+
+.gameplayer-2 { position: fixed; width: 100%; height: 100%; left: 0px; top:=
+ 0px; background: rgba(51, 51, 51, 0.7); z-index: 10; }
+------MultipartBoundary--xCdATQemtpWpU7TJjEbjvqtcRNSTBe9x5rBlrUmr4p------
