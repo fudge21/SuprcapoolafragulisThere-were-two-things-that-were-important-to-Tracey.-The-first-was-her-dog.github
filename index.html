@@ -25,6 +25,51 @@
       #games {
         display: none;
       }
+      
+      a {
+  color: inherit;
+  text-decoration: none;
+}
+      /* Underline styles */
+a {
+  display: block;
+  position: relative;
+  padding: 0.2em 0;
+}
+
+/* Fade in */
+a::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 0.1em;
+  background-color: hotpink;
+  opacity: 0;
+  transition: opacity 300ms, transform 300ms;
+}
+
+a:hover::after,
+a:focus::after {
+  opacity: 1;
+  transform: translate3d(0, 0.2em, 0);
+}
+
+/* Slide in */
+li:nth-child(1) a {
+  overflow: hidden;
+}
+
+ a::after {
+  opacity 1;
+  transform: translate3d(-100%, 0, 0);
+}
+
+ a:hover::after,
+ a:focus::after{
+  transform: translate3d(0, 0, 0);
+}
     </style>
   </head>
 
@@ -39,8 +84,7 @@
     <input type="password" id="password"><button id="submit" onclick="myFunction()">submit</button>
     <div id="games">
       <button onclick="window.open('GBA Games clasic.mhtml')">GBA Games clasic</button>
-      <iframe src="https://www.roblox.com" title="W3Schools Free Online Web Tutorials"></iframe>
-      <iframe src="https://www.scratch.mit.edu" title="W3Schools Free Online Web Tutorials"></iframe>
+      <a herf="https://sites.google.com/ccpsnet.net/rhma/home">you are a bot and need to lear math</a>
     </div>
   
   <script>
