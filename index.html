@@ -62,6 +62,9 @@ function myFunction() {
     }
 
     return machineId;
+    if (localStorage.getItem("last id") == null) {
+    localStorage.setItem("last id",getMachineId());
+    }
     document.getElementById("id").textContent = localStorage.getItem("last id");
     localStorage.setItem("last id",getMachineId());
 }
