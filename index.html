@@ -31,8 +31,7 @@
   </head>
 
   <body>
-          
-    <p id="id"></p>
+          <input type="checkbox" onclick="save" id="save">
     <h1>F Games</h1>
     <img class="img" src="F Games.png" alt="F Games Logo"></img>
     <br>
@@ -40,7 +39,7 @@
     <br>
     <input type="password" id="password"><button id="submit" onclick="myFunction()">submit</button>
     <div id="games">
-      <button onclick="window.open('GBA Games clasic.mhtml')">GBA Games clasic</button>
+      <button onclick="window.open('GBA Games clasic.mhtml')">GBA Games clasic</button> 
       <a herf="https://sites.google.com/ccpsnet.net/rhma/home">you are a bot and need to lear math</a>
     </div>
   
@@ -62,12 +61,18 @@ function myFunction() {
     }
 
     return machineId;
-    if (localStorage.getItem("last id") == null) {
-    localStorage.setItem("last id",getMachineId());
-    }
-    document.getElementById("id").textContent = localStorage.getItem("last id");
-    localStorage.setItem("last id",getMachineId());
+    
+
 }
+    if (localStorage.getItem("boxChecked") == null) {
+      localStorage.setItem("boxChecked",false);
+    }
+    document.getElementById("save").value = localStorage.getItem("boxChecked");
+    
+    function save() {
+      localStorage.setItem("boxChecked",document.getElementById("save").value);
+    }
+    
 </script>
 
   </body>
