@@ -32,7 +32,7 @@
 
   <body>
           
-    
+    <p id="id"></p>
     <h1>F Games</h1>
     <img class="img" src="F Games.png" alt="F Games Logo"></img>
     <br>
@@ -50,6 +50,20 @@ function myFunction() {
   if (x == "e") {
     document.getElementById("games").style.display = "block";
   }
+}
+    
+    function getMachineId() {
+    
+    let machineId = localStorage.getItem('MachineId');
+    
+    if (!machineId) {
+        machineId = crypto.randomUUID();
+        localStorage.setItem('MachineId', machineId);
+    }
+
+    return machineId;
+    document.getElementById("id").textContent = localStorage.getItem("last id");
+    localStorage.setItem("last id",getMachineId());
 }
 </script>
 
