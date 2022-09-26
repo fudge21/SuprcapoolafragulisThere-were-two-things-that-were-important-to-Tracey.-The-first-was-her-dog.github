@@ -42,7 +42,7 @@
       <button onclick="window.open('GBA Games clasic.mhtml')">GBA Games clasic</button> 
       <button onclick="window.open('https://fudge21.github.io/goblinrunner/')">Goblin Runner</button> 
       <a herf="https://sites.google.com/ccpsnet.net/rhma/home">you are a bot and need to lear math</a>
-      <select name="Select a game" id="cars">
+      <select name="Select a game" id="gameList">
         <option value="goblin runner">goblin runner</option>
         <option value="game2">game2</option>
         <option value="game3">game3</option>
@@ -79,6 +79,10 @@ function myFunction() {
     function save() {
       localStorage.setItem("boxChecked",document.getElementById("save").value);
     }
+    
+    var upadateGame = setInterval(function(){
+      document.getElementById(document.getElementById("gameList").value).styles.display = "none";
+    },10)
     
 </script>
 
