@@ -39,15 +39,13 @@
     <br>
     <input type="password" id="password"><button id="submit" onclick="myFunction()">submit</button>
     <div id="games">
-      <button onclick="window.open('GBA Games clasic.mhtml')">GBA Games clasic</button> 
-      <button onclick="window.open('https://fudge21.github.io/goblinrunner/')">Goblin Runner</button> 
-      <a herf="https://sites.google.com/ccpsnet.net/rhma/home">you are a bot and need to lear math</a>
       <select name="Select a game" id="gameList">
         <option value="goblin runner">goblin runner</option>
         <option value="game2">game2</option>
         <option value="game3">game3</option>
         <option value="game4">game4</option>
       </select>
+      <br>
       <iframe src="https://fudge21.github.io/goblinrunner/" title="Goblin Runner" styles="display:none;"></iframe>
     </div>
   
@@ -84,7 +82,9 @@ function myFunction() {
     }
     
     var upadateGame = setInterval(function(){
-      document.getElementById(document.getElementById("gameList").value).styles.display = "none";
+      //document.getElementById("Goblin Runner").styles.display = "none";
+      
+      document.getElementById(document.getElementById("gameList").value).styles.display = "block";
     },10)
     
 </script>
