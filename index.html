@@ -74,17 +74,9 @@ function myFunction() {
     
 
 }
-    if (localStorage.getItem("boxChecked") == null) {
-      localStorage.setItem("boxChecked",false);
-    }
-    document.getElementById("save").value = localStorage.getItem("boxChecked");
-    
-    function save() {
-      localStorage.setItem("boxChecked",document.getElementById("save").value);
-    }
     
     var upadateGame = setInterval(function(){
-      document.getElementById("Goblin Runner").styles.display = "none";
+      document.getElementById("goblin runner").styles.display = "none";
       
       document.getElementById(document.getElementById("gameList").value).styles.display = "block";
     },10)
