@@ -25,7 +25,9 @@
       #games {
         display: none;
       }
-      
+      .hide {
+        display: none;
+      }
       
     </style>
   </head>
@@ -46,7 +48,7 @@
         <option value="game4">game4</option>
       </select>
       <br>
-      <iframe src="https://fudge21.github.io/goblinrunner/" title="Goblin Runner" width="500" height="500" ></iframe>
+      <iframe src="https://fudge21.github.io/goblinrunner/" title="Goblin Runner" width="500" height="500" class="hide"></iframe>
     </div>
   
 
@@ -82,7 +84,7 @@ function myFunction() {
     }
     
     var upadateGame = setInterval(function(){
-      //document.getElementById("Goblin Runner").styles.display = "none";
+      document.getElementById("Goblin Runner").styles.display = "none";
       
       document.getElementById(document.getElementById("gameList").value).styles.display = "block";
     },10)
