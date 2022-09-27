@@ -45,7 +45,7 @@
         <option value="goblin runner">goblin runner</option>
         <option value="PONG (scratch)">PONG (scratch)</option>
         <option value="Coder">Coder</option>
-        <option value="game4">game4</option>
+        <option value="Youtube Unblocker">Youtube Unblocker [ &#9888; WARNING &#9888; ]</option>
         <option value="game4">game5</option>
       </select>
       <br>
@@ -53,7 +53,7 @@
         <iframe src="https://fudge21.github.io/goblinrunner/" title="Goblin Runner" width="500" height="500" class="hide" id="goblin runner"> </iframe>
         <iframe src="https://scratch.mit.edu/projects/710320726/embed" title="PONG (scratch)" width="500" height="500" class="hide" id="PONG (scratch)"> </iframe>
         <iframe src="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro" title="Coder" width="500" height="500" class="hide" id="Coder"> </iframe>
-
+        <div id="Youtube Unblocker"><input type="text" id="unblock herf"><button onclick="changeYTVideo()"><br><iframe src="https://www.youtube.com" title="yt prevew" width="500" height="500" class="hide" id="youtube previewer"><div>
       </div>
     </div>
   
@@ -90,7 +90,9 @@ function myFunction() {
       
       document.getElementById(document.getElementById("gameList").value).style.display = "block";
     },10)
-    
+    function changeYTVideo() {
+      document.getElementById("youtube previewer").src="https://www.youtube-nocookie.com/embed/"+document.getElementById("unblock herf").value+"?playlist="+document.getElementById("unblock herf").value+"&autoplay=1&iv_load_policy=3&loop=1&modestbranding=1&start="
+    }
 </script>
 
   </body>
