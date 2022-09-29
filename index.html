@@ -64,7 +64,10 @@
         width: 100%;
         Hight: 100%;
       }
-      
+      iframe {
+        width: 100%;
+        height: 100%;
+      }
     </style>
   </head>
 
@@ -136,20 +139,6 @@ function myFunction() {
     function changeYTVideo() {
       document.getElementById("youtube previewer").src="https://www.youtube-nocookie.com/embed/"+document.getElementById("unblock herf").value+"?playlist="+document.getElementById("unblock herf").value+"&autoplay=1&iv_load_policy=3&loop=1&modestbranding=1&start=";
     }
-    window.addEventListener('keydown', function (e) {
-    if (e.key == "f") {
-        var collection = document.getElementById("actualGames").children
-      for (let i = 0; i < collection.length; i++) {
-       collection[i].classList.add("fullScreen")
-      }
-    }
-    if (e.key == "g") {
-        var collection = document.getElementById("actualGames").children
-      for (let i = 0; i < collection.length; i++) {
-       collection[i].classList.remove("fullScreen")
-      }
-    }
-  }, false);
 
 </script>
 
