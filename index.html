@@ -66,6 +66,7 @@
 
   <body>
     <fieldset>
+      <h2 id="welcome">Welcome</h2>
       <legend>Test the new system!</legend>
       <button onclick="window.open('wow login relly cool awsome cool')">Test it!</button>
     </fieldset>
@@ -106,7 +107,7 @@
    
       
   <script>
-    function getCookie(cname) {
+function getCookie(cname) {
   let name = cname + "=";
   let decodedCookie = decodeURIComponent(document.cookie);
   let ca = decodedCookie.split(';');
@@ -122,9 +123,9 @@
   return "";
 }
     
-    if (getcookie("username") = "") {
-      window.open('wow login relly cool awsome cool');
-    }
+    if (getcookie("username") = "" || getcookie("username") = null) {
+      window.open('wow login relly cool awsome cool', "_blank");
+    } 
     
     
 function myFunction() {
@@ -134,18 +135,13 @@ function myFunction() {
   }
 }
     
-    function getMachineId() {
-    
+function getMachineId() {
     let machineId = localStorage.getItem('MachineId');
-    
     if (!machineId) {
         machineId = crypto.randomUUID();
         localStorage.setItem('MachineId', machineId);
     }
-
     return machineId;
-    
-
 }
     
     var upadateGame = setInterval(function(){
