@@ -50,7 +50,7 @@
       }
       button {
         font-size: 20px;
-      }
+      } 
       #games {
         display: none;
       }
@@ -65,7 +65,7 @@
   </head>
 
   <body>
-    <h1>F Games</h1>
+    <h1><b>F Games</b></h1>
     <img class="img" src="F Games.png" alt="F Games Logo"></img>
     <br>
     <input type="password" id="password"><button id="submit" onclick="myFunction()">submit</button>
@@ -105,7 +105,7 @@
     
 function myFunction() {
   var x = document.getElementById("password").value;
-  if (x == "soupmaster") {
+  if (x == "hackweek2022") {
     document.getElementById("games").style.display = "block";
   }
 }
@@ -133,7 +133,7 @@ function myFunction() {
       
       document.getElementById(document.getElementById("gameList").value).style.display = "block";
     },10)
- .textContent   function changeYTVideo() {
+function changeYTVideo() {
       document.getElementById("youtube previewer").src="https://www.youtube-nocookie.com/embed/"+document.getElementById("unblock herf").value+"?playlist="+document.getElementById("unblock herf").value+"&autoplay=1&iv_load_policy=3&loop=1&modestbranding=1&start=";
     }
 
