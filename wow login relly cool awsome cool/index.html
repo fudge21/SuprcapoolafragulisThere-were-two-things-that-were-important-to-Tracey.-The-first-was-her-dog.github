@@ -1,1 +1,14 @@
-<p>apple</p>
+<h1>Welcome to  <b>F GAMES</b>!</h1>
+<div>
+  <h1>Login</h1>
+  <p for="username">Username: <p>
+  <input type="text" id="username">
+  <button onclick="login()">submit</button>
+  <p><b>NOTE:</b> passwords are comming in the future. your data is not safe. do not share your username withanyone you don't trust. ;)</p>
+</div>
+<script>
+  function login() {
+    document.cookie = "username="+document.getElementById("username").value;
+    window.open("../", "_blank")
+  }
+</script>
