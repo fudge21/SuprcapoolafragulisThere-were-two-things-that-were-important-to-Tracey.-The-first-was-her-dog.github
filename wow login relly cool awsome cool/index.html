@@ -1,7 +1,37 @@
+<head>
+  <title>Login - F Games</title>
+  <style>
+    * {
+      text-align: center;
+      font-family: "Lucida Console", "Courier New", monospace;
+     
+    }
+    body {
+    	background-repeat: repeat, repeat;
+    	/* background-image: url("https://fudge21.github.io/SuprcapoolafragulisThere-were-two-things-that-were-important-to-Tracey.-The-first-was-her-dog.github/F Games.png"); */
+         background-size: 100px 100px;
+         
+    }
+    button {
+    	background-color: purple;
+        border-radius: 25px;
+    }
+    button:hover {
+    	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition-duration: 100ms;
+    }
+    input {
+    	background-color: purple;
+        border-radius: 25px;
+    }
+    
+  </style>
+</head>
+
 <h1>Welcome to  <b>F GAMES</b>!</h1>
 <div>
   <h1>Login</h1>
-  <p for="username">Username: <p>
+  <p for="username">Username: <p> 
   <input type="text" id="username">
   <button onclick="login()">submit</button>
   <p><b>NOTE:</b> passwords are comming in the future. your data is not safe. do not share your username withanyone you don't trust. ;)</p>
@@ -9,6 +39,6 @@
 <script>
   function login() {
     document.cookie = "username="+document.getElementById("username").value;
-    window.open("../", "_blank")
+    window.open("../"+"?username="+document.getElementById("username").value, "_blank")
   }
 </script>
