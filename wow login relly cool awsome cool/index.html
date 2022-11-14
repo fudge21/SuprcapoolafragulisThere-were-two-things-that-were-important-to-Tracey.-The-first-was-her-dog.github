@@ -39,6 +39,6 @@
 <script>
   function login() {
     document.cookie = "username="+document.getElementById("username").value;
-    window.open("../"+"?username="+document.getElementById("username").value, "_blank")
+    location.replace("../"+"?username="+document.getElementById("username").value);
   }
 </script>
