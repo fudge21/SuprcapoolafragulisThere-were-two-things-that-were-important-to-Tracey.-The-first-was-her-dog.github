@@ -21,8 +21,10 @@
       The requested URL or file was not found on this server. <br />
       That is all we know.<br />
       <br />
-      If you want to you can go to the <a href="/">homepage</a>.
+      <button onclick="location.replace(window.history.previous.href)">back</button>
     </p>
+    <br>
+    <hr>
     <h2>Stats for nerds</h2>
     Requested URL: <code id="full"></code><br />
     Requested file path: <code id="path"></code><br />
