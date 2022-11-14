@@ -39,8 +39,27 @@
         font-family: Arial, Helvetica, sans-serif;
         color: purple;
         background-color: DodgerBlue;
-        animation: bgcolor 10s infinite;
+        animation: bgcolor 0s infinite;
      }
+          * {
+      text-align: center;
+      font-family: "Lucida Console", "Courier New", monospace;
+     
+    }
+    button {
+    	background-color: purple;
+        border-radius: 25px;
+      color: black;
+    }
+    button:hover {
+    	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition-duration: 100ms;
+    }
+    input {
+    	background-color: purple;
+        border-radius: 25px;
+      color: black;
+    }
       h1 {
         font-size: 50px;
       }
@@ -73,39 +92,7 @@
     <h1><b>F Games</b></h1>
     <img class="img" src="F Games.png" alt="F Games Logo">
     <br>
-    <input type="password" id="password"><button id="submit" onclick="myFunction()">submit</button>
-    <div id="games">
-      <select name="Select a game" id="gameList">
-        <option value="goblin runner">goblin runner</option>
-        <option value="PONG (scratch)">PONG (scratch)</option>
-        <option value="Coder">Coder</option>
-        <option value="Youtube Unblocker">Youtube Unblocker [WARNING]</option>
-        <option value="Slope">Slope</option>
-        <option value="retro-bowl">retro-bowl</option>
-        <option value="Run3">Run3</option>
-        <option value="hole.io">hole.io</option>
-      </select>
-      <br>
-      <div id="actualGames">
-        <iframe src="https://fudge21.github.io/goblinrunner/" title="Goblin Runner" width="500" height="500" class="hide" id="goblin runner"> </iframe>
-        <iframe src="https://scratch.mit.edu/projects/710320726/embed" title="PONG (scratch)" width="500" height="500" class="hide" id="PONG (scratch)"> </iframe>
-        <iframe src="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro" title="Coder" width="500" height="500" class="hide" id="Coder"> </iframe>
-        <div id="Youtube Unblocker" class="hide">
-          <input type="text" id="unblock herf">
-          <button onclick="changeYTVideo()">change video</button>
-          <br>
-          <iframe src="https://youtube.com" title="yt prevew" width="500" height="500"  id="youtube previewer"></iframe>
-      </div>
-          <iframe src="https://xlegends.github.io/slope-1/" title="Slope" width="500" height="500" class="hide" id="Slope"></iframe>
-<iframe src="https://xlegends.github.io/retro-bowl/" title="" width="500" height="500" class="hide" id="retro-bowl"></iframe>
-<iframe src="https://xlegends.github.io/run3/" title="Run3" width="500" height="500" class="hide" id="Run3"></iframe>
-        <iframe src="https://geuddd.github.io/Hole.io/" title="hole.io" width="500" height="500" class="hide" id="hole.io"></iframe>
-        
-      
-    </div>
-
-   
-      
+    <h2> do you expect me to make it easy for you?</h2>
   <script>
 function getCookie(cname) {
   let name = cname + "=";
@@ -123,18 +110,7 @@ function getCookie(cname) {
   return "";
 }
     
-    if (getcookie("username") = "" || getcookie("username") = null) {
-      window.open('wow login relly cool awsome cool', "_blank");
-    } 
-    
-    
-function myFunction() {
-  var x = document.getElementById("password").value;
-  if (x == "hackweek2022") {
-    document.getElementById("games").style.display = "block";
-  }
-}
-    
+       
 function getMachineId() {
     let machineId = localStorage.getItem('MachineId');
     if (!machineId) {
@@ -144,18 +120,7 @@ function getMachineId() {
     return machineId;
 }
     
-    var upadateGame = setInterval(function(){
-      var collection = document.getElementById("actualGames").children
-      for (let i = 0; i < collection.length; i++) {
-       collection[i].style.display = "none";
-      }
-        
-      
-      document.getElementById(document.getElementById("gameList").value).style.display = "block";
-    },10)
-function changeYTVideo() {
-      document.getElementById("youtube previewer").src="https://www.youtube-nocookie.com/embed/"+document.getElementById("unblock herf").value+"?playlist="+document.getElementById("unblock herf").value+"&autoplay=1&iv_load_policy=3&loop=1&modestbranding=1&start=";
-    }
+    
 
 </script>
 
