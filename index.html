@@ -1,4 +1,3 @@
-
 <html lang="en-us">
   <head>
     <link rel="icon" type="image/x-icon" href="F Games.png">
@@ -50,6 +49,7 @@
     	background-color: purple;
         border-radius: 25px;
       color: black;
+      
     }
     button:hover {
     	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -77,10 +77,24 @@
         width: 100%;
         height: 100%;
       }
+      div.menu,
+      div.menu>* {
+        
+      }
+      div.menu {
+      	background-color: grey;
+        padding: 000px;
+        margin: 0px;
+      }
     </style>
   </head>
 
   <body>
+    <div class="menu">
+      <button style="position: relative; left: -200px;">Home</button>
+      <button style="position: relative; left: -200px;">Discover</button>
+      <button style="position: relative; left: 200px;">settings</button>
+    </div>
     <fieldset>
       <h2 id="welcome">Welcome</h2>
       <legend>Test the new system!</legend>
