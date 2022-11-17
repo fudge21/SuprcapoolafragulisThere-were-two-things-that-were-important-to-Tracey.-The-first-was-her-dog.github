@@ -1,4 +1,10 @@
 <textarea id="Code"></textarea>
-<button onclick="">preview</button>
-<embed type="text/html" src="<h1>agsydguaskjhdj</h1>" width="500" height="200">
+<button onclick="preview()">preview</button>
+
 <script>
+  function preview() {
+    window.open("", "myWindow", "width=600,height=300");   
+    myWindow.document.write(document.getElementById("Code").textContent);
+  }
+  
+</script>
