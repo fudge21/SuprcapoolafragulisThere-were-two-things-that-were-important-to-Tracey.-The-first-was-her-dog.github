@@ -1,14 +1,20 @@
+<!DOCTYPE html>
+<html>
 <head>
   <title>Game Builder</title>
 </head>
 
-<textarea id="Code"></textarea>
-<button onclick="preview()">preview</button>
+<body>
+  <textarea id="Code" placeholder="Code Here"></textarea>
+  <button onclick="preview()">preview</button>
+</body>
 
 <script>
   function preview() {
-    window.open("", "myWindow", "width=600,height=300");   
-    myWindow.document.write(document.getElementById("Code").value);
+   	myWindow =  window.open("", "myWindow", "width=600,height=300"); 
+   		myWindow.document.write(document.getElementById("Code").textContent);
   }
   
 </script>
+
+</html>
