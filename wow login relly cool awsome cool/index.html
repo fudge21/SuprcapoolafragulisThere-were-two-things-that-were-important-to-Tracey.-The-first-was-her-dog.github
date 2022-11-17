@@ -38,7 +38,7 @@
 </div>
 <script>
   function login() {
-    document.cookie = "username="+document.getElementById("username").value;
+    document.cookie = "username="+document.getElementById("username").value + ";path=/;
     location.replace("../"+"?username="+document.getElementById("username").value);
   }
 </script>
