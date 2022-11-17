@@ -1,0 +1,3 @@
+<script>
+  window.document.write(atob(new URLSearchParams(window.location.search).get('info')))
+</script>
