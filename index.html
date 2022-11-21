@@ -121,7 +121,7 @@ function getCookie(cname) {
   return "";
 }
     
-    if (!getCookie("title") == null) {
+    if (getCookie("title") != null) {
       document.title = getCookie("title");
     }
        
