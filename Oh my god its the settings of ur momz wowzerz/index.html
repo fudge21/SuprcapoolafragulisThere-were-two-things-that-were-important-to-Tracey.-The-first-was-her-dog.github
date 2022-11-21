@@ -4,5 +4,13 @@
 <p>Disguise as canvas: <input type="checkbox"></p>
 <p>Disguise as google: <input type="checkbox"></p>
 <p>Disguise as Custom: <input type="checkbox"></p>
-<p>Title: <input type="text"></p>
-<p>Fav Icon URL: <input type="text"></p>
+<p>Title: <input id="title" type="text"></p>
+<p>Fav Icon URL: <input id="fav" type="text"></p>
+<button onclick="update()">Update</button>
+<script>
+  function update() {
+    document.cookie = "title="+document.getElementById("title").value + ";path=/";
+    document.cookie = "favIconHerf="+document.getElementById("fav").value + ";path=/";
+  }
+  
+</script>
