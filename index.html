@@ -121,6 +121,9 @@ function getCookie(cname) {
   return "";
 }
     
+    if (!getCookie("title") == null) {
+      document.title = getCookie("title");
+    }
        
 function getMachineId() {
     let machineId = localStorage.getItem('MachineId');
