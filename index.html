@@ -103,7 +103,7 @@
     <h1><b>F Games</b></h1>
     <img class="img" src="F Games.png" alt="F Games Logo">
     <br>
-    <h2> do you expect me to make it easy for you?</h2>
+    <h2 id="message"> do you expect me to make it easy for you?</h2>
   <script>
 function getCookie(cname) {
   let name = cname + "=";
@@ -133,6 +133,9 @@ function getMachineId() {
     }
     return machineId;
 }
+    var items = ["do you expect me to make it easy for you?",'Mr. Nicholson says "No games in class."',"Games help you learn!"]
+    var item = items[Math.floor(Math.random()*items.length)];
+    document.getElemantById("message").textContent = item
     
     
 
