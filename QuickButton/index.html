@@ -17,7 +17,7 @@
     <div id="title">
       <h1>Quick Button</h1>
 
-      <Button>Play</button>
+      <Button onclick="play()">Play</button>
     </div>
     <div id="game" style="filter: blur(8px);">
       <p class="info" id="score" style="text-align: left;">-score-</p>
@@ -37,9 +37,14 @@
 <img src="off button.png"></img>
     </div> 
       <script>
+        var scoreText = document.getElementById("score");
+        var highscoreText = document.getElementById("highscore");
+        var timeText = document.getElementById("time");
+        
         function play() {
           document.getElementById("title").style.display="none";
           document.getElementById("game").style.filter="none";
+          scoreText.textContent="score: 0"
         }
       </script>
   </body>  
